@@ -1,4 +1,4 @@
-NFT Gallery it's a simple frontend made using Next.js & Alchemy NFT API.
+NFT Gallery is a simple frontend Application that displays the NFTs of any Wallet Address provided on the Ethereum Mainnet, made using Next.js & Alchemy NFT API.
 
 Deployed Link: [https://nft-gallery-nu.vercel.app/](https://nft-gallery-nu.vercel.app/)
 
